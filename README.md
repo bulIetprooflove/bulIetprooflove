@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bulletprooflove&color=grey" alt="Profile Views" />
+</p>
+<p align="center">
   <img src="joel.png" alt="Screenshot" width="800">
 </p>
 
