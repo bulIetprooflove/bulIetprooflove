@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bulletprooflove&color=grey" alt="sweethearts" />
+  <img src="https://komarev.com/ghpvc/?username=bulletprooflove&label=໒꒱&color=6A0DAD" alt="Profile Views">
 </p>
 <p align="center">
    <a href="https://todeathwedance.atabook.org/">atabook</a> 
 </p>
 <p align="center">
-  <img src="joel.png" alt="Screenshot" width="800">
+  <img src="satator.png" alt="Screenshot" width="800">
 </p>
 
 
