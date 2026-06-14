@@ -5,7 +5,7 @@
    <a href="https://todeathwedance.atabook.org/">atabook</a> 
 </p>
 <p align="center">
-  <img src="satator.png" alt="Screenshot" width="800">
+  <img src="IMG_0335.jpg" alt="Screenshot" width="600">
 </p>
 
 
