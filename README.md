@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=bulletprooflove&label=໒꒱&color=6A0DAD" alt="Profile Views">
 </p>
 <p align="center">
-   <a href="https://todeathwedance.atabook.org/">atabook</a> 
+   <a href="https://buriburichan.atabook.org/">atabook</a> 
 </p>
 <p align="center">
   <img src="IMG_0335.jpg" alt="Screenshot" width="600">
